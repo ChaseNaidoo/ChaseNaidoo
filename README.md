@@ -16,7 +16,7 @@ I am a curious, adapatable and creative web developer with a passion for art and
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,c)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/cameron-chase-naidoo/)
