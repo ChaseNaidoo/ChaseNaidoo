@@ -8,7 +8,7 @@ I am a curious, adapatable and creative web developer with a passion for art and
 
 - 🔭 Full-Stack Software Engineering with a specialization in Front-end Development from ALX Africa.
 - ✍️ National Diploma: Biotechnology from Tshwane University of Technology
-- 📝 I write in-depth, informative articles on LinkedIn [LinkedIn](https://www.linkedin.com/in/cameron-chase-naidoo/recent-activity/all/).
+- 📝 I write in-depth, informative articles on [LinkedIn](https://www.linkedin.com/in/cameron-chase-naidoo/recent-activity/all/).
 
 ## My Articles
 - [Portfolio project for ALX Africa](https://www.linkedin.com/posts/cameron-chase-naidoo_artificialintelligence-ai-pythonprogramming-activity-7164997873510563840-75z0?utm_source=share&utm_medium=member_desktop)
