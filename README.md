@@ -2,7 +2,7 @@
 
 I am a curious, adapatable and creative web developer with a passion for art and science. My journey involves delving into the world of Full-Stack Software Engineering and Biotechnology, exploring new ideas, and creating unique experiences.
 
-![<ChaseNaidoo>'s Stats](https://github-readme-stats.vercel.app/api?username=<ChaseNaidoo>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<ChaseNaidoo>'s Stats](https://github-readme-stats.vercel.app/api?username=ChaseNaidoo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
