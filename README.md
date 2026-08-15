@@ -126,18 +126,31 @@ Earlier lab and QC work still shape how I ship: test against a standard, documen
 ### GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChaseNaidoo&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaseNaidoo&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaseNaidoo&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaseNaidoo&theme=github_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaseNaidoo&theme=github_dark" alt="Most used languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ChaseNaidoo&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/58A6FF/ChaseNaidoo" alt="Chase Naidoo GitHub contribution chart" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
   <a href="https://github.com/ChaseNaidoo/Pixel_art_portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaseNaidoo&repo=Pixel_art_portfolio&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="Pixel_art_portfolio" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChaseNaidoo&repo=Pixel_art_portfolio&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="Pixel_art_portfolio" />
   </a>
   <a href="https://github.com/ChaseNaidoo/ChaseNaidoo.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaseNaidoo&repo=ChaseNaidoo.github.io&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="ChaseNaidoo.github.io" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChaseNaidoo&repo=ChaseNaidoo.github.io&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="ChaseNaidoo.github.io" />
   </a>
 </div>
 
