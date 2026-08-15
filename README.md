@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=900&color=B4FF39&center=true&vCenter=true&width=620&lines=Product+designer+%26+engineer;Design+the+path.+Ship+the+build.;Front-end+%C2%B7+UI%2FUX+%C2%B7+Live+products)](https://chasenaidoo.github.io/)
 
-Product designer and engineer in Pretoria. I design end-to-end experiences with the software already in mind — then ship them into production.
+Product designer and engineer in Pretoria. I design end-to-end experiences with the software already in mind. Then ship them into production.
 
 **Product Design & Engineering @ [Fancam](https://fancam.com)**
 
@@ -119,30 +119,18 @@ Earlier lab and QC work still shape how I ship: test against a standard, documen
 
 ### GitHub
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaseNaidoo&theme=chartreuse_dark&icon_color=B4FF39" alt="GitHub stats" />
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaseNaidoo&theme=chartreuse_dark&icon_color=B4FF39" alt="GitHub stats" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaseNaidoo&theme=chartreuse_dark&icon_color=B4FF39" alt="Top languages by repo" />
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaseNaidoo&theme=chartreuse_dark&icon_color=B4FF39" alt="Top languages by repo" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=ChaseNaidoo&theme=dark&hide_border=true&background=0B0F0A&stroke=1A2A14&ring=B4FF39&fire=B4FF39&currStreakNum=B4FF39&sideNums=B4FF39&currStreakLabel=B4FF39&sideLabels=8F9A86&dates=8F9A86" alt="GitHub streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ChaseNaidoo/Pixel_art_portfolio">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChaseNaidoo&repo=Pixel_art_portfolio&theme=dark&hide_border=true&bg_color=0B0F0A&title_color=B4FF39&icon_color=B4FF39&text_color=C8D4BC" alt="Pixel_art_portfolio" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ChaseNaidoo/ChaseNaidoo.github.io">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChaseNaidoo&repo=ChaseNaidoo.github.io&theme=dark&hide_border=true&bg_color=0B0F0A&title_color=B4FF39&icon_color=B4FF39&text_color=C8D4BC" alt="ChaseNaidoo.github.io" />
-      </a>
+      <img width="100%" src="https://streak-stats.demolab.com/?user=ChaseNaidoo&theme=dark&hide_border=true&background=0B0F0A&stroke=1A2A14&ring=B4FF39&fire=B4FF39&currStreakNum=B4FF39&sideNums=B4FF39&currStreakLabel=B4FF39&sideLabels=8F9A86&dates=8F9A86" alt="GitHub streak" />
     </td>
   </tr>
 </table>
