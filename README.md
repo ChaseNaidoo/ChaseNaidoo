@@ -1,40 +1,48 @@
-# Hi, I'm Chase.
+# Cameron Chase Naidoo
 
-I am a curious, adapatable and creative web developer with a passion for art and science. My journey involves delving into the world of Full-Stack Software Engineering and Biotechnology, exploring new ideas, and creating unique experiences.
+Product designer and engineer in Pretoria. I design end-to-end experiences with the software already in mind, then ship them into production.
 
-![<ChaseNaidoo>'s Stats](https://github-readme-stats.vercel.app/api?username=ChaseNaidoo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+Currently: **Product Design & Engineering @ [Fancam](https://fancam.com)** — redesigning and shipping the live-event fan experience (viewer, discovery, theming, admin).
 
-## 🚀 About Me
+**Portfolio:** [chasenaidoo.github.io](https://chasenaidoo.github.io/) · **LinkedIn:** [cameron-chase-naidoo](https://www.linkedin.com/in/cameron-chase-naidoo/)
 
-- 🔭 Full-Stack Software Engineering with a specialization in Front-end Development from ALX Africa.
-- ✍️ National Diploma: Biotechnology from Tshwane University of Technology
-- 📝 I write in-depth, informative articles on [LinkedIn](https://www.linkedin.com/in/cameron-chase-naidoo/recent-activity/all/).
+---
 
-## My Articles
-- [Portfolio project for ALX Africa](https://www.linkedin.com/posts/cameron-chase-naidoo_artificialintelligence-ai-pythonprogramming-activity-7164997873510563840-75z0?utm_source=share&utm_medium=member_desktop)
-- [Creating an AirBnb console clone in python](https://www.linkedin.com/posts/cameron-chase-naidoo_airbnb-clone-the-console-a-simple-guide-activity-7126587149243547649-9wyS?utm_source=share&utm_medium=member_desktop)
+## Selected work
 
+| Project | Role | Links |
+| --- | --- | --- |
+| **Fancam Event Experience** | Product design + engineering — fan flows into Vue UI, Node/Express theming, admin, and APIs. Post-launch: on-page interactions ↑50%, ~1 in 4 fans returning. | [Case study](https://chasenaidoo.github.io/case-studies/fancam) · [Live](https://vikings.fancam.com/20260104?s=west-view&atv=10.0&ath=-96.453&fov=50.0) |
+| **AI Business Acceleration Discovery** (Balmer / InLogic) | Designed and built branded guided chat → ranked opportunity report + PDF (React, n8n). | [Case study](https://chasenaidoo.github.io/case-studies/balmer) · [Live](https://balmer-version-2.vercel.app) |
+| **Pixel Art Portfolio** | Kaboom.js top-down world as an interactive CV — quests, dialogue, credentials by exploration. | [Case study](https://chasenaidoo.github.io/case-studies/pixel-portfolio) · [Live](https://pixel-art-portfolio.vercel.app/) · [Repo](https://github.com/ChaseNaidoo/Pixel_art_portfolio) |
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,c,tensorflow)](https://skillicons.dev)
+More write-ups and a resume PDF: [chasenaidoo.github.io](https://chasenaidoo.github.io/)
 
-## 📬 Get in Touch
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/cameron-chase-naidoo/)
+---
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+## Background
 
+- **Fancam** — Product Design & Engineering (2025–Present)
+- **InLogic** — Product Design, AI Automation (2024–2025)
+- **ALX Africa** — Full-Stack Software Engineering, Front-end specialization (2024)
+- **Tshwane University of Technology** — National Diploma: Biotechnology (2022)
 
-<!--
-**ChaseNaidoo/ChaseNaidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Earlier lab and QC work shaped how I ship: test against a standard, document clearly, decide from evidence.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+JavaScript · React · Vue · Node/Express · HTML/CSS · Vite · Three.js · Kaboom.js · Python
+
+[![Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs,vite,threejs,python)](https://skillicons.dev)
+
+---
+
+## Contact
+
+Open to conversations about product design, front-end engineering, and shipping UI in real systems.
+
+- Portfolio: [chasenaidoo.github.io](https://chasenaidoo.github.io/)
+- LinkedIn: [cameron-chase-naidoo](https://www.linkedin.com/in/cameron-chase-naidoo/)
+- GitHub: [@ChaseNaidoo](https://github.com/ChaseNaidoo)
