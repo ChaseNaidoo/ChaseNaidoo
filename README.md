@@ -119,21 +119,14 @@ Earlier lab and QC work still shape how I ship: test against a standard, documen
 
 ### GitHub
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaseNaidoo&theme=chartreuse_dark&icon_color=B4FF39" alt="GitHub stats" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaseNaidoo&theme=chartreuse_dark&icon_color=B4FF39" alt="Top languages by repo" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=ChaseNaidoo&theme=dark&hide_border=true&background=0B0F0A&stroke=1A2A14&ring=B4FF39&fire=B4FF39&currStreakNum=B4FF39&sideNums=B4FF39&currStreakLabel=B4FF39&sideLabels=8F9A86&dates=8F9A86" alt="GitHub streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaseNaidoo&theme=chartreuse_dark&icon_color=B4FF39" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaseNaidoo&theme=chartreuse_dark&icon_color=B4FF39" alt="Top languages by repo" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=ChaseNaidoo&theme=dark&hide_border=true&background=0B0F0A&stroke=1A2A14&ring=B4FF39&fire=B4FF39&currStreakNum=B4FF39&sideNums=B4FF39&currStreakLabel=B4FF39&sideLabels=8F9A86&dates=8F9A86" alt="GitHub streak" />
+</p>
 
 ---
 
