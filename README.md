@@ -8,12 +8,6 @@ Product designer and engineer in Pretoria. I design end-to-end experiences with 
 
 **Product Design & Engineering @ [Fancam](https://fancam.com)**
 
-<br />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-chasenaidoo.github.io-0B0F0A?style=for-the-badge&logo=githubpages&logoColor=B4FF39&labelColor=111111)](https://chasenaidoo.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-cameron--chase--naidoo-0B0F0A?style=for-the-badge&logo=linkedin&logoColor=B4FF39&labelColor=111111)](https://www.linkedin.com/in/cameron-chase-naidoo/)
-[![Location](https://img.shields.io/badge/Pretoria-South%20Africa-0B0F0A?style=for-the-badge&logo=googlemaps&logoColor=B4FF39&labelColor=111111)](https://chasenaidoo.github.io/)
-
 </div>
 
 ---
@@ -125,28 +119,33 @@ Earlier lab and QC work still shape how I ship: test against a standard, documen
 
 ### GitHub
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaseNaidoo&theme=chartreuse_dark" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaseNaidoo&theme=chartreuse_dark" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaseNaidoo&theme=chartreuse_dark" alt="Most used languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ChaseNaidoo&theme=dark&hide_border=true&background=0B0F0A&stroke=1A2A14&ring=B4FF39&fire=B4FF39&currStreakNum=B4FF39&sideNums=B4FF39&currStreakLabel=B4FF39&sideLabels=8F9A86&dates=8F9A86" alt="GitHub streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/ChaseNaidoo/Pixel_art_portfolio">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChaseNaidoo&repo=Pixel_art_portfolio&theme=dark&hide_border=true&bg_color=0B0F0A&title_color=B4FF39&icon_color=B4FF39&text_color=C8D4BC" alt="Pixel_art_portfolio" />
-  </a>
-  <a href="https://github.com/ChaseNaidoo/ChaseNaidoo.github.io">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChaseNaidoo&repo=ChaseNaidoo.github.io&theme=dark&hide_border=true&bg_color=0B0F0A&title_color=B4FF39&icon_color=B4FF39&text_color=C8D4BC" alt="ChaseNaidoo.github.io" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaseNaidoo&theme=chartreuse_dark&icon_color=B4FF39" alt="GitHub stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaseNaidoo&theme=chartreuse_dark&icon_color=B4FF39" alt="Top languages by repo" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=ChaseNaidoo&theme=dark&hide_border=true&background=0B0F0A&stroke=1A2A14&ring=B4FF39&fire=B4FF39&currStreakNum=B4FF39&sideNums=B4FF39&currStreakLabel=B4FF39&sideLabels=8F9A86&dates=8F9A86" alt="GitHub streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/ChaseNaidoo/Pixel_art_portfolio">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChaseNaidoo&repo=Pixel_art_portfolio&theme=dark&hide_border=true&bg_color=0B0F0A&title_color=B4FF39&icon_color=B4FF39&text_color=C8D4BC" alt="Pixel_art_portfolio" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/ChaseNaidoo/ChaseNaidoo.github.io">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChaseNaidoo&repo=ChaseNaidoo.github.io&theme=dark&hide_border=true&bg_color=0B0F0A&title_color=B4FF39&icon_color=B4FF39&text_color=C8D4BC" alt="ChaseNaidoo.github.io" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
