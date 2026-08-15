@@ -2,7 +2,7 @@
 
 # Cameron Chase Naidoo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Product+designer+%26+engineer;Design+the+path.+Ship+the+build.;Front-end+%C2%B7+UI%2FUX+%C2%B7+Live+products)](https://chasenaidoo.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=900&color=B4FF39&center=true&vCenter=true&width=620&lines=Product+designer+%26+engineer;Design+the+path.+Ship+the+build.;Front-end+%C2%B7+UI%2FUX+%C2%B7+Live+products)](https://chasenaidoo.github.io/)
 
 Product designer and engineer in Pretoria. I design end-to-end experiences with the software already in mind — then ship them into production.
 
@@ -10,9 +10,9 @@ Product designer and engineer in Pretoria. I design end-to-end experiences with 
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chasenaidoo.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://chasenaidoo.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-cameron--chase--naidoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cameron-chase-naidoo/)
-[![Location](https://img.shields.io/badge/Pretoria-South%20Africa-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white)](https://chasenaidoo.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chasenaidoo.github.io-0B0F0A?style=for-the-badge&logo=githubpages&logoColor=B4FF39&labelColor=111111)](https://chasenaidoo.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cameron--chase--naidoo-0B0F0A?style=for-the-badge&logo=linkedin&logoColor=B4FF39&labelColor=111111)](https://www.linkedin.com/in/cameron-chase-naidoo/)
+[![Location](https://img.shields.io/badge/Pretoria-South%20Africa-0B0F0A?style=for-the-badge&logo=googlemaps&logoColor=B4FF39&labelColor=111111)](https://chasenaidoo.github.io/)
 
 </div>
 
@@ -33,8 +33,8 @@ Product designer and engineer in Pretoria. I design end-to-end experiences with 
       </p>
       <p><b>Outcome:</b> on-page interactions ↑50% · ~1 in 4 fans returning</p>
       <p>
-        <a href="https://chasenaidoo.github.io/case-studies/fancam"><img src="https://img.shields.io/badge/Case_study-181717?style=flat-square&logo=readthedocs&logoColor=white" alt="Case study" /></a>
-        <a href="https://vikings.fancam.com/20260104?s=west-view&atv=10.0&ath=-96.453&fov=50.0"><img src="https://img.shields.io/badge/Live-0E8A16?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
+        <a href="https://chasenaidoo.github.io/case-studies/fancam"><img src="https://img.shields.io/badge/Case_study-111111?style=flat-square&logo=readthedocs&logoColor=B4FF39" alt="Case study" /></a>
+        <a href="https://vikings.fancam.com/20260104?s=west-view&atv=10.0&ath=-96.453&fov=50.0"><img src="https://img.shields.io/badge/Live-B4FF39?style=flat-square&logo=vercel&logoColor=0B0F0A" alt="Live" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -48,8 +48,8 @@ Product designer and engineer in Pretoria. I design end-to-end experiences with 
       </p>
       <p><b>Stack:</b> React · Vite · n8n · PDF export</p>
       <p>
-        <a href="https://chasenaidoo.github.io/case-studies/balmer"><img src="https://img.shields.io/badge/Case_study-181717?style=flat-square&logo=readthedocs&logoColor=white" alt="Case study" /></a>
-        <a href="https://balmer-version-2.vercel.app"><img src="https://img.shields.io/badge/Live-0E8A16?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
+        <a href="https://chasenaidoo.github.io/case-studies/balmer"><img src="https://img.shields.io/badge/Case_study-111111?style=flat-square&logo=readthedocs&logoColor=B4FF39" alt="Case study" /></a>
+        <a href="https://balmer-version-2.vercel.app"><img src="https://img.shields.io/badge/Live-B4FF39?style=flat-square&logo=vercel&logoColor=0B0F0A" alt="Live" /></a>
       </p>
     </td>
   </tr>
@@ -64,9 +64,9 @@ Product designer and engineer in Pretoria. I design end-to-end experiences with 
         Self-initiated Kaboom.js portfolio — a top-down pixel world with quests, dialogue, and credentials you find by exploring.
       </p>
       <p>
-        <a href="https://chasenaidoo.github.io/case-studies/pixel-portfolio"><img src="https://img.shields.io/badge/Case_study-181717?style=flat-square&logo=readthedocs&logoColor=white" alt="Case study" /></a>
-        <a href="https://pixel-art-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Live-0E8A16?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
-        <a href="https://github.com/ChaseNaidoo/Pixel_art_portfolio"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+        <a href="https://chasenaidoo.github.io/case-studies/pixel-portfolio"><img src="https://img.shields.io/badge/Case_study-111111?style=flat-square&logo=readthedocs&logoColor=B4FF39" alt="Case study" /></a>
+        <a href="https://pixel-art-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Live-B4FF39?style=flat-square&logo=vercel&logoColor=0B0F0A" alt="Live" /></a>
+        <a href="https://github.com/ChaseNaidoo/Pixel_art_portfolio"><img src="https://img.shields.io/badge/Repo-111111?style=flat-square&logo=github&logoColor=B4FF39" alt="Repo" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -79,8 +79,8 @@ Product designer and engineer in Pretoria. I design end-to-end experiences with 
         Personal site with a WebGL hero and long-form case studies. React 19, Vite, Three.js — built to show the work the way a hiring manager should see it.
       </p>
       <p>
-        <a href="https://chasenaidoo.github.io/"><img src="https://img.shields.io/badge/Live-0E8A16?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
-        <a href="https://github.com/ChaseNaidoo/ChaseNaidoo.github.io"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+        <a href="https://chasenaidoo.github.io/"><img src="https://img.shields.io/badge/Live-B4FF39?style=flat-square&logo=vercel&logoColor=0B0F0A" alt="Live" /></a>
+        <a href="https://github.com/ChaseNaidoo/ChaseNaidoo.github.io"><img src="https://img.shields.io/badge/Repo-111111?style=flat-square&logo=github&logoColor=B4FF39" alt="Repo" /></a>
       </p>
     </td>
   </tr>
@@ -109,15 +109,15 @@ Earlier lab and QC work still shape how I ship: test against a standard, documen
 
 <div align="center">
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0F0A?style=for-the-badge&logo=javascript&logoColor=B4FF39)
+![React](https://img.shields.io/badge/React-0B0F0A?style=for-the-badge&logo=react&logoColor=B4FF39)
+![Vue](https://img.shields.io/badge/Vue-0B0F0A?style=for-the-badge&logo=vuedotjs&logoColor=B4FF39)
+![Node.js](https://img.shields.io/badge/Node.js-0B0F0A?style=for-the-badge&logo=nodedotjs&logoColor=B4FF39)
+![HTML5](https://img.shields.io/badge/HTML5-0B0F0A?style=for-the-badge&logo=html5&logoColor=B4FF39)
+![CSS3](https://img.shields.io/badge/CSS3-0B0F0A?style=for-the-badge&logo=css3&logoColor=B4FF39)
+![Vite](https://img.shields.io/badge/Vite-0B0F0A?style=for-the-badge&logo=vite&logoColor=B4FF39)
+![Three.js](https://img.shields.io/badge/Three.js-0B0F0A?style=for-the-badge&logo=threedotjs&logoColor=B4FF39)
+![Python](https://img.shields.io/badge/Python-0B0F0A?style=for-the-badge&logo=python&logoColor=B4FF39)
 
 </div>
 
@@ -126,31 +126,31 @@ Earlier lab and QC work still shape how I ship: test against a standard, documen
 ### GitHub
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaseNaidoo&theme=github_dark" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaseNaidoo&theme=github_dark" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaseNaidoo&theme=github_dark" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChaseNaidoo&theme=chartreuse_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaseNaidoo&theme=chartreuse_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaseNaidoo&theme=chartreuse_dark" alt="Most used languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ChaseNaidoo&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=ChaseNaidoo&theme=dark&hide_border=true&background=0B0F0A&stroke=1A2A14&ring=B4FF39&fire=B4FF39&currStreakNum=B4FF39&sideNums=B4FF39&currStreakLabel=B4FF39&sideLabels=8F9A86&dates=8F9A86" alt="GitHub streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/ChaseNaidoo" alt="Chase Naidoo GitHub contribution chart" width="100%" />
+  <img src="https://ghchart.rshah.org/B4FF39/ChaseNaidoo" alt="Chase Naidoo GitHub contribution chart" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
   <a href="https://github.com/ChaseNaidoo/Pixel_art_portfolio">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChaseNaidoo&repo=Pixel_art_portfolio&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="Pixel_art_portfolio" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChaseNaidoo&repo=Pixel_art_portfolio&theme=dark&hide_border=true&bg_color=0B0F0A&title_color=B4FF39&icon_color=B4FF39&text_color=C8D4BC" alt="Pixel_art_portfolio" />
   </a>
   <a href="https://github.com/ChaseNaidoo/ChaseNaidoo.github.io">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChaseNaidoo&repo=ChaseNaidoo.github.io&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="ChaseNaidoo.github.io" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChaseNaidoo&repo=ChaseNaidoo.github.io&theme=dark&hide_border=true&bg_color=0B0F0A&title_color=B4FF39&icon_color=B4FF39&text_color=C8D4BC" alt="ChaseNaidoo.github.io" />
   </a>
 </div>
 
