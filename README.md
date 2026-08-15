@@ -140,12 +140,6 @@ Earlier lab and QC work still shape how I ship: test against a standard, documen
 <br />
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/B4FF39/ChaseNaidoo" alt="Chase Naidoo GitHub contribution chart" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
   <a href="https://github.com/ChaseNaidoo/Pixel_art_portfolio">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChaseNaidoo&repo=Pixel_art_portfolio&theme=dark&hide_border=true&bg_color=0B0F0A&title_color=B4FF39&icon_color=B4FF39&text_color=C8D4BC" alt="Pixel_art_portfolio" />
   </a>
